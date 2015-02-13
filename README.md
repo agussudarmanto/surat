@@ -1,7 +1,13 @@
 # Aplikasi persuratan
 
 Tampilan aplikasi :
+
+- Daftar surat
+
 ![preview](https://github.com/agussudarmanto/surat/blob/master/preview.jpg)
+
+- Entri surat masuk
+
 ![entridata](https://github.com/agussudarmanto/surat/blob/master/entridata.jpg)
 
 Cara instalasi :

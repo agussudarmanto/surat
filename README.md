@@ -25,6 +25,10 @@ define("APPS_PARAM_IDX" , 2);
 define("MODULE_PARAM_IDX" , 3);
 define("ACTION_PARAM_IDX" , 4);
 ```
-4. buka browser anda dan kunjungi `http://localhost/surat/`
 
+Setelah selesai buka internet browser anda dan kunjungi halaman aplikasi `http://localhost/surat/`
+```
+login : admin
+password : 12345
+```
 Silahkan dimodifikasi sesuai kebutuhan anda.

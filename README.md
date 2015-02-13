@@ -1,5 +1,9 @@
 # Aplikasi persuratan
 
+Tampilan aplikasi :
+![preview](https://github.com/agussudarmanto/surat/blob/master/preview.jpg)
+![entridata](https://github.com/agussudarmanto/surat/blob/master/entridata.jpg)
+
 Cara instalasi :
 
 1. copy folder surat ke direktori web server anda mis: ke `htdocs` atau ke `www`
@@ -16,3 +20,5 @@ define("MODULE_PARAM_IDX" , 3);
 define("ACTION_PARAM_IDX" , 4);
 ```
 4. buka browser anda dan kunjungi `http://localhost/surat/`
+
+Silahkan dimodifikasi sesuai kebutuhan anda.
